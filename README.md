@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NyxenWolf
+- 👀 I’m interested in learning Java, Kotlin, Powershell Scripting and Python.
+- 🌱 I’m currently learning Java and Kotlin for developing Android applications.
